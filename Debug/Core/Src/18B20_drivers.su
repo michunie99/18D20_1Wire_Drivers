@@ -1,0 +1,8 @@
+18B20_drivers.c:28:9:reset	16	static
+18B20_drivers.c:39:6:delay_us	16	static
+18B20_drivers.c:44:6:send_zero	8	static
+18B20_drivers.c:51:6:send_one	8	static
+18B20_drivers.c:58:6:send_byte	24	static
+18B20_drivers.c:70:9:read_byte	16	static
+18B20_drivers.c:84:7:read_temp	16	static
+18B20_drivers.c:106:10:read_rom	40	static
